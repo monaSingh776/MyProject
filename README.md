@@ -1,4 +1,4 @@
 # MyProject
 This is my first git project.
 <br>
-Author Name - Mona Singh
+Author Name - Mona Singh (Me)
